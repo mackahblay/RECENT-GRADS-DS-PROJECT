@@ -113,7 +113,7 @@ This project provides a comprehensive analysis of the employment and salary outc
 Enhancements and Future Work
 
  ## Further Statistical Analysis:
-    Expand the regression models to include interaction terms and non-linear effects.
-    Advanced Visualizations: Use advanced visualization tools such as Tableau or Power BI for more interactive and dynamic visual representations.
-    Machine Learning: Implement machine learning algorithms to predict employment outcomes and salaries with higher accuracy.
+Expand the regression models to include interaction terms and non-linear effects.
+Advanced Visualizations: Use advanced visualization tools such as Tableau or Power BI for more interactive and dynamic visual representations.
+Machine Learning: Implement machine learning algorithms to predict employment outcomes and salaries with higher accuracy.
 
